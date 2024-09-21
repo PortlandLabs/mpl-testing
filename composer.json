@@ -1,0 +1,13 @@
+{
+    "name": "mpl/mpltesting",
+    "description": "MPL Testing",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Korvin Szanto",
+            "email": "korvin@portlandlabs.com"
+        }
+    ],
+    "require": {}
+}
